@@ -12,7 +12,7 @@ class ruliweb_used_searcher:
         self.title_list = []
         self.login_INFO = {
             'user_id': 'pluxlight',
-            'user_pw': 'dgdh49@ruli'
+            'user_pw': '*' #password
         }
 
     # 최저가 찾는 함수
